@@ -2,11 +2,9 @@
 
 ###
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="victor-bahia-11827b358" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/victor-bahia-11827b358?trk=profile-badge">Victor Bahia</a></div>
-              
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=VBBahia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=cobalt2&locale=en&hide_border=false&order=1" height="183" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VBBahia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VBBahia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=cobalt2&hide_border=false&order=2" height="191" alt="languages graph"  />
 </div>
 
 ###
@@ -48,4 +46,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+
+###
 
