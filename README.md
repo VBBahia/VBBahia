@@ -5,8 +5,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=VBBahia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VBBahia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=VBBahia&theme=dracula&column=8&row=20&margin-w=10&margin-h=4&no-frame=false&no-bg=false" height="150" alt="trophy graph"  />
-  
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VBBahia&theme=modern-lilac" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
