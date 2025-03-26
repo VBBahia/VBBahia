@@ -1,10 +1,13 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=1&pause=1000&color=4AB5F7&background=FF559100&center=true&vCenter=true&random=true&width=435&lines=Victor+Bahia" alt="Typing SVG" /></a>
+
+###
+
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=1&pause=1000&color=4AB5F7&background=FF559100&left=true&vCenter=true&random=true&width=435&lines=Victor+Bahia" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4006&pause=3000&color=1EFF8A&background=FF559100&center=true&vCenter=true&width=435&lines=Back-End+%2B+Developer+%2B+Trainee" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4006&pause=3000&color=1EFF8A&background=FF559100&left=true&left=true&width=435&lines=Back-End+%2B+Developer+%2B+Trainee" alt="Typing SVG" /></a>
 </p>
 
 <br clear="both">
@@ -51,6 +54,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+
 ###
 
 <div align="left">
@@ -60,6 +64,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
+
+
 
 ###
 
