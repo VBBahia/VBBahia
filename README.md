@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=33FF87&background=FF559100&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Back-End%2BDeveloper%2BTrainee" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4006&pause=3000&color=1EFF8A&background=FF559100&center=true&vCenter=true&width=435&lines=Back-End+%2B+Developer+%2B+Trainee" alt="Typing SVG" /></a>
 </p>
 
 <br clear="both">
@@ -66,5 +66,5 @@
 <br clear="both">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=6000&pause=1000&color=63D3FF&background=FF559100&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Paz+%2B+Amor+%2B+Programa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=6000&pause=2000&color=63D3FF&background=FF559100&center=true&vCenter=true&width=435&lines=Paz+%2B+Amor+%2B+Programa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 ###
