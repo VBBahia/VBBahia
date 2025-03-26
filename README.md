@@ -1,12 +1,17 @@
-<h3 align="left">Olá me chamo Victor</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=1&pause=1000&color=4AB5F7&background=FF559100&center=true&vCenter=true&random=true&width=435&lines=Victor+Bahia" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=33FF87&background=FF559100&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Back-End%2BDeveloper%2BTrainee" alt="Typing SVG" /></a>
+</p>
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VBBahia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VBBahia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VBBahia&theme=modern-lilac" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VBBahia&theme=github_dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBBahia&theme=github_dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ###
