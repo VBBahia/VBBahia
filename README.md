@@ -10,8 +10,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VBBahia&theme=github_dark&show_icons=true&hide_border=false&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBBahia&theme=github_dark&show_icons=true&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VBBahia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false" height="150" alt="stats graph"  >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VBBahia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VBBahia&theme=gotham&radius=16&hide_border=false" height="249" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -64,6 +65,6 @@
 
 <br clear="both">
 
-<h1 align="center">Paz , Amor e Programação</h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=6000&pause=1000&color=63D3FF&background=FF559100&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Paz+%2B+Amor+%2B+Programa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 ###
